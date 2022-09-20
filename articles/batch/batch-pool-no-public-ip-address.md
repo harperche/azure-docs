@@ -9,6 +9,7 @@ ms.custom: references_regions
 # Create a Batch pool without public IP addresses (preview)
 
 > [!IMPORTANT]
+> - Migration guide https://learn.microsoft.com/en-us/azure/batch/batch-pools-without-public-ip-addresses-classic-retirement-migration-guide
 > - Support for pools without public IP addresses in Azure Batch is currently in public preview for the following regions: France Central, East Asia, West Central US, South Central US, West US 2, East US, North Europe, East US 2, Central US, West Europe, North Central US, West US, Australia East, Japan East, Japan West.
 > - This preview version will be replaced by [Simplified node communication pool without public IP addresses](simplified-node-communication-pool-no-public-ip.md).
 > - This preview version is provided without a service level agreement, and it's not recommended for production workloads. Certain features might not be supported or might have constrained capabilities.
